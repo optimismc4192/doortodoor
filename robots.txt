@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://doortodoor.ai.kr/sitemap.xml
